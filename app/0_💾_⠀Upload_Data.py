@@ -89,3 +89,16 @@ if ("df" in state) and ("a_o" in state):
     with tabs[1]:
         st.dataframe(state.isotherm_data.iso_df)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
